@@ -2,11 +2,22 @@
   "label": "Medicine",
   "overview": "Medicine faculty roster and scoped team suggestions. Use Institute-wide for cross-group team building.",
   "stats": {
-    "faculty_count": 1,
+    "faculty_count": 4,
     "pairs_count": 0,
     "teams3plus_count": 0,
     "opportunities_covered": 0
   },
-  "top_themes": [],
+  "top_themes": [
+    "Immune responses to MPXV, SARS-CoV-2, Influenza, and HIV-1.",
+    "Comparative analysis of vaccine- versus infection-induced immunity.",
+    "Viral evolution, immune escape, and antiretroviral resistance mechanisms.",
+    "Genomic surveillance and variant tracking in emerging pathogens.",
+    "Durability, quality, and avidity of antibody responses.",
+    "Development and application of multiplex immunoassays for biomarker discovery.",
+    "Integration of viral genomics with clinical and immunologic datasets to define correlates of protection.",
+    "Role of T follicular helper (Tfh) and CD4⁺ T cells in shaping antibody responses.",
+    "Regulation of humoral immunity in response to vaccines, autoantigens, and xenoantigens.",
+    "Mechanisms of immune imprinting by inflammation, checkpoint signaling, and infection history."
+  ],
   "top_approaches": []
 }

@@ -1,5 +1,161 @@
 [
   {
+    "id": "micro_ralf_duerr",
+    "name": "Ralf Duerr, MD, PhD",
+    "title": "",
+    "summary": "The Duerr Lab investigates immune responses to MPXV, SARS-CoV-2, Influenza, and HIV-1 through studies of viral evolution, vaccine- and infection-induced immunity, and host–pathogen interactions. The lab focuses on understanding how viral genetic variation and immune evasion shape antibody durability, neutralization breadth, and long-term protection. Using integrated approaches that combine genomic surveillance, viral evolution analysis, and immunologic profiling, the group defines the mechanisms by which vaccination and infection influence population-level immunity. Pioneering studies have characterized the emergence and dissemination of SARS-CoV-2 variants, provided the first systematic evaluation of MVA-BN (JYNNEOS) vaccine–induced immunity to mpox, and established standardized workflows for high-containment immune assays and biospecimen analysis. Current efforts center on identifying immune correlates of durable protection across orthopoxvirus and coronavirus lineages, and on developing next-generation tools to evaluate antibody quality, avidity, and cross-neutralization.",
+    "keywords": [
+      "Immune responses to MPXV, SARS-CoV-2, Influenza, and HIV-1.",
+      "Comparative analysis of vaccine- versus infection-induced immunity.",
+      "Viral evolution, immune escape, and antiretroviral resistance mechanisms.",
+      "Genomic surveillance and variant tracking in emerging pathogens.",
+      "Durability, quality, and avidity of antibody responses.",
+      "Development and application of multiplex immunoassays for biomarker discovery.",
+      "Integration of viral genomics with clinical and immunologic datasets to define correlates of protection."
+    ],
+    "lab_synopsis": "The Duerr Lab investigates immune responses to MPXV, SARS-CoV-2, Influenza, and HIV-1 through studies of viral evolution, vaccine- and infection-induced immunity, and host–pathogen interactions. The lab focuses on understanding how viral genetic variation and immune evasion shape antibody durability, neutralization breadth, and long-term protection. Using integrated approaches that combine genomic surveillance, viral evolution analysis, and immunologic profiling, the group defines the mechanisms by which vaccination and infection influence population-level immunity. Pioneering studies have characterized the emergence and dissemination of SARS-CoV-2 variants, provided the first systematic evaluation of MVA-BN (JYNNEOS) vaccine–induced immunity to mpox, and established standardized workflows for high-containment immune assays and biospecimen analysis. Current efforts center on identifying immune correlates of durable protection across orthopoxvirus and coronavirus lineages, and on developing next-generation tools to evaluate antibody quality, avidity, and cross-neutralization.",
+    "tracks": [
+      "Virology",
+      "Immunology",
+      "Translational Research"
+    ],
+    "specialty_areas": "Viral Immunology / Vaccine Responses / Viral Evolution",
+    "research_keywords": [
+      "Immune responses to MPXV, SARS-CoV-2, Influenza, and HIV-1.",
+      "Comparative analysis of vaccine- versus infection-induced immunity.",
+      "Viral evolution, immune escape, and antiretroviral resistance mechanisms.",
+      "Genomic surveillance and variant tracking in emerging pathogens.",
+      "Durability, quality, and avidity of antibody responses.",
+      "Development and application of multiplex immunoassays for biomarker discovery.",
+      "Integration of viral genomics with clinical and immunologic datasets to define correlates of protection."
+    ],
+    "experimental_capabilities": [
+      "Multiplex antibody binding analysis; Antibody isotype and subclass profiling; Neutralization assays; Hemagglutination inhibition (HAI) assays; Avidity assessment; Biochemical crosslinking; Proteomics; Viral genome sequencing and evolution analysis; Bioinformatics and selective adaptation modeling; ELISA and flow-based antibody quantification; Memory B-cell and T-cell profiling; Omics approaches (genomics, transcriptomics, proteomics); Viral culture and neutralization in BSL-3 facilities; Phylogenetic and lineage tracking of emerging variants."
+    ],
+    "model_systems": [
+      "Model systems: Human cohorts infected with or vaccinated against MPXV (MVA-BN/JYNNEOS), SARS-CoV-2, Influenza, or HIV-1.",
+      "Focus areas: Mechanisms of antiviral immune responses and viral evasion of vaccine-induced immunity; Orthopoxvirus (MPXV) immunology; SARS-CoV-2 and Long COVID immune dynamics; Influenza vaccine response durability; HIV-1 antibody evolution and escape.",
+      "Disease relevance: Understanding how viral evolution, immune imprinting, and host variability shape the durability and breadth of vaccine- and infection-induced immunity, guiding design of next-generation pan-viral vaccines and immune monitoring tools."
+    ],
+    "complementary_areas": [
+      "T cell/antibody integration (Herati)",
+      "Macrophage roles (Khanna)",
+      "Vector/decoy studies (Landau)",
+      "Biomarker discovery (Rodriguez)"
+    ],
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Medicine/Duerr, Ralf/Duerr et al., eBioMedicine 2023oct_Selective_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Medicine/Duerr, Ralf/Gambaro, Duerr et al., Virus Evolution 2024ma_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ],
+    "affiliations": [
+      "Microbiology",
+      "Medicine"
+    ]
+  },
+  {
+    "id": "micro_ramin_herati",
+    "name": "Ramin Herati, MD",
+    "title": "",
+    "summary": "The Herati Lab investigates how T follicular helper (Tfh) and CD4⁺ T cells regulate antibody responses to vaccines, autoantigens, and xenoantigens, focusing on the cellular and molecular mechanisms that shape the quality, specificity, and durability of humoral immunity. Through studies of human vaccination, infection, and immunotherapy, the lab has revealed how inflammatory cues, checkpoint signaling, and immune history imprint Tfh and CD4⁺ T cell differentiation, influencing antibody evolution and long-term protection. Pioneering work from the group has identified circulating Tfh (cTfh) populations as biosensors of immune health, capable of predicting vaccine responsiveness and revealing systemic immune set points during checkpoint blockade or aging. Current efforts center on defining how immune-modifying therapies and chronic inflammation alter Tfh and CD4⁺ T cell function, with translational goals of improving vaccine design and mitigating immune dysregulation in infection, cancer, and autoimmunity.",
+    "keywords": [
+      "Role of T follicular helper (Tfh) and CD4⁺ T cells in shaping antibody responses.",
+      "Regulation of humoral immunity in response to vaccines, autoantigens, and xenoantigens.",
+      "Mechanisms of immune imprinting by inflammation, checkpoint signaling, and infection history.",
+      "Systems-level integration of immune responses using multi-omics, single-cell, and spatial analyses.",
+      "Comparative studies of vaccine- versus infection-induced antibody evolution.",
+      "Immune modulation in autoimmunity, transplantation, and immunotherapy.",
+      "Translational focus on improving vaccine design and preventing immune dysregulation."
+    ],
+    "lab_synopsis": "The Herati Lab investigates how T follicular helper (Tfh) and CD4⁺ T cells regulate antibody responses to vaccines, autoantigens, and xenoantigens, focusing on the cellular and molecular mechanisms that shape the quality, specificity, and durability of humoral immunity. Through studies of human vaccination, infection, and immunotherapy, the lab has revealed how inflammatory cues, checkpoint signaling, and immune history imprint Tfh and CD4⁺ T cell differentiation, influencing antibody evolution and long-term protection. Pioneering work from the group has identified circulating Tfh (cTfh) populations as biosensors of immune health, capable of predicting vaccine responsiveness and revealing systemic immune set points during checkpoint blockade or aging. Current efforts center on defining how immune-modifying therapies and chronic inflammation alter Tfh and CD4⁺ T cell function, with translational goals of improving vaccine design and mitigating immune dysregulation in infection, cancer, and autoimmunity.",
+    "tracks": [
+      "Immunology",
+      "Translational Research"
+    ],
+    "specialty_areas": "Human Immunology / Systems Immunology / Vaccinology",
+    "research_keywords": [
+      "Role of T follicular helper (Tfh) and CD4⁺ T cells in shaping antibody responses.",
+      "Regulation of humoral immunity in response to vaccines, autoantigens, and xenoantigens.",
+      "Mechanisms of immune imprinting by inflammation, checkpoint signaling, and infection history.",
+      "Systems-level integration of immune responses using multi-omics, single-cell, and spatial analyses.",
+      "Comparative studies of vaccine- versus infection-induced antibody evolution.",
+      "Immune modulation in autoimmunity, transplantation, and immunotherapy.",
+      "Translational focus on improving vaccine design and preventing immune dysregulation."
+    ],
+    "experimental_capabilities": [
+      "Flow cytometry and spectral immune profiling; Single-cell RNA sequencing (scRNA-seq); Multi-omics integration (genomics, transcriptomics, proteomics); Spatial omics for mapping immune architecture; Activation-induced marker (AIM) assays for Tfh and CD4⁺ T cells; B cell–Tfh co-culture and functional antibody assays; ELISpot and cytokine quantification; Neutralization and antibody binding assays; Longitudinal cohort immune monitoring; Computational immunology and systems-level data integration."
+    ],
+    "model_systems": [
+      "Model systems: Human cohorts involving vaccination, infection, autoimmunity, transplantation, and checkpoint immunotherapy.",
+      "Focus areas: Vaccine immunology; Autoimmunity; Transplantation immunity; Tfh–B cell coordination in antibody development; Immune imprinting by inflammation and therapy.",
+      "Disease relevance: Defining mechanisms that shape protective and pathogenic antibody responses to inform improved vaccine design, immune monitoring, and interventions for immune-mediated disease."
+    ],
+    "complementary_areas": [
+      "Vaccine immune responses (Duerr)",
+      "Innate-adaptive integration (Khanna)",
+      "Data integration (Pironti/Schluter)"
+    ],
+    "publications": [],
+    "affiliations": [
+      "Microbiology",
+      "Medicine"
+    ]
+  },
+  {
+    "id": "micro_bo_shopsin",
+    "name": "Bo Shopsin, MD, PhD",
+    "title": "",
+    "summary": "The Shopsin Lab investigates how Staphylococcus aureus, particularly methicillin-resistant S. aureus (MRSA), adapts to and persists within human hosts. Using team-science, forensic approaches that connect field epidemiology and clinical observations with molecular and genomic analyses, the lab identifies key pathogen adaptations that drive persistence, virulence, and antimicrobial resistance. Their work integrates population genomics, expression profiling, and animal infection models to define how MRSA evolves under selective pressures such as antibiotic exposure, host immunity, and microbiome disruption. Recent studies have uncovered prophage-encoded methyltransferases that epigenetically reprogram MRSA virulence, and metabolic and microbiota-dependent adaptations that enable colonization and resistance during intestinal persistence. Current efforts focus on identifying pathogen–host interaction mechanisms that promote MRSA survival across niches — from skin and mucosal surfaces to the gut — and translating these discoveries into therapeutic and prognostic targets to limit MRSA transmission and infection in healthcare and community settings.",
+    "keywords": [
+      "MRSA adaptation and persistence in human hosts.",
+      "Epidemiology and population genetics of Staphylococcus aureus.",
+      "Host–pathogen interactions driving colonization and immune evasion.",
+      "Therapeutic and prognostic pathogen adaptations.",
+      "Evolution of hospital- and community-acquired infections."
+    ],
+    "lab_synopsis": "The Shopsin Lab investigates how Staphylococcus aureus, particularly methicillin-resistant S. aureus (MRSA), adapts to and persists within human hosts. Using team-science, forensic approaches that connect field epidemiology and clinical observations with molecular and genomic analyses, the lab identifies key pathogen adaptations that drive persistence, virulence, and antimicrobial resistance. Their work integrates population genomics, expression profiling, and animal infection models to define how MRSA evolves under selective pressures such as antibiotic exposure, host immunity, and microbiome disruption. Recent studies have uncovered prophage-encoded methyltransferases that epigenetically reprogram MRSA virulence, and metabolic and microbiota-dependent adaptations that enable colonization and resistance during intestinal persistence. Current efforts focus on identifying pathogen–host interaction mechanisms that promote MRSA survival across niches — from skin and mucosal surfaces to the gut — and translating these discoveries into therapeutic and prognostic targets to limit MRSA transmission and infection in healthcare and community settings.",
+    "tracks": [
+      "Bacteriology",
+      "Drivers of Microbial Pathogenesis",
+      "Translational Research"
+    ],
+    "specialty_areas": "Bacteriology / Antimicrobial Resistance / Clinical Microbiology",
+    "research_keywords": [
+      "MRSA adaptation and persistence in human hosts.",
+      "Epidemiology and population genetics of Staphylococcus aureus.",
+      "Host–pathogen interactions driving colonization and immune evasion.",
+      "Therapeutic and prognostic pathogen adaptations.",
+      "Evolution of hospital- and community-acquired infections."
+    ],
+    "experimental_capabilities": [
+      "In vivo and ex vivo infection models; Hospital-scale genome sequencing, surveillance, and bioinformatic analytics; Classical molecular microbiology (plasmid curing, transduction, gene knockouts, complementation, reporter fusions); Expression profiling (transcriptomics, RNA-seq); Population genetics and epidemiological modeling; Bacterial culture and antimicrobial resistance phenotyping; Phage and mobile genetic element analysis; Host–pathogen interaction assays."
+    ],
+    "model_systems": [
+      "Model systems: Staphylococcus aureus and MRSA infection and colonization models; Hospital and community outbreak surveillance datasets; In vivo and ex vivo models of host–pathogen interaction.",
+      "Focus areas: MRSA and Staphylococcus aureus pathogenesis; Antimicrobial resistance (AMR); Nosocomial infections; Host adaptation and transmission dynamics.",
+      "Disease relevance: Defining genomic, molecular, and ecological mechanisms that drive MRSA persistence, virulence, and spread to guide infection control and therapeutic strategies."
+    ],
+    "complementary_areas": [
+      "Genomics of resistance (Pironti)",
+      "Immunity to S. aureus (Duerr)",
+      "Translational medicine (Ortigoza)"
+    ],
+    "publications": [],
+    "affiliations": [
+      "Microbiology",
+      "Medicine"
+    ]
+  },
+  {
     "id": "intake_aravinda_chakravarti",
     "name": "Aravinda Chakravarti",
     "title": "Muriel G & George W Singer Professor of Neuroscience & Physiology and Director, Center for Human Genetics and Genomics",
@@ -46,7 +202,8 @@
     ],
     "affiliations": [
       "Medicine",
-      "Neuroscience and Physiology"
+      "Neuroscience and Physiology",
+      "Neuroscience"
     ]
   }
 ]
